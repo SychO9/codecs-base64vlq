@@ -19,10 +19,10 @@
     ],
     "require": {
         "php": ">=7.3",
-        "sycho/errors": "^1.0.1"
+        "sycho/errors": "^3.0"
     },
     "require-dev": {
-        "sycho/errors": "^1.x-dev"
+        "sycho/errors": "^3.x-dev"
     },
     "autoload": {
         "psr-4": {
@@ -34,7 +34,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-main": "1.x-dev"
+            "dev-main": "2.x-dev"
         }
     },
     "repositories": [
