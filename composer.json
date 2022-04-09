@@ -1,5 +1,5 @@
 {
-    "name": "axy/codecs-base64vlq",
+    "name": "sycho/codecs-base64vlq",
     "type": "library",
     "description": "Codec for VLQ (variable-length quantity) Base64 algorithm",
     "keywords": [
@@ -9,7 +9,7 @@
         "Base64",
         "Source map"
     ],
-    "homepage": "https://github.com/axypro/codecs-base64vlq",
+    "homepage": "https://github.com/sycho9/codecs-base64vlq",
     "license": "MIT",
     "authors": [
         {
@@ -19,10 +19,10 @@
     ],
     "require": {
         "php": ">=7.3",
-        "axy/errors": "^1.0.1"
+        "sycho/errors": "^1.0.1"
     },
     "require-dev": {
-        "axy/errors": "^1.x-dev"
+        "sycho/errors": "^1.x-dev"
     },
     "autoload": {
         "psr-4": {
